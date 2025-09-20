@@ -1,0 +1,32 @@
+{
+    "student_record": [
+        {
+            "name": "Sofia Reyes",
+            "birthdate": "8/14/04",
+            "birthplace": "Cebu City",
+            "sex": "Female",
+            "status": "Single",
+            "region": "REGION VII",
+            "province": "CEBU",
+            "city": "CEBU CITY",
+            "brgy": "LAHUG",
+            "code": "6000",
+            "number": "09278894561",
+            "email": "sofia.reyes14@email.com",
+            "fb": "Sofia Marie Reyes",
+            "father": "Antonio M. Reyes",
+            "occupation1": "Marine Engineer",
+            "mother": "Carmela D. Reyes",
+            "occupation2": "University Professor",
+            "siblings": "2",
+            "income": "1,500,000",
+            "application": "Graduating Senior High",
+            "lrn": "107845123456",
+            "school": "Cebu City National Science High School",
+            "gwa": "97",
+            "college": "University of the Philippines - Los Baños",
+            "degree": "Bachelor of Science in Agriculture",
+            "yesno": "Yes"
+        }
+    ]
+}
