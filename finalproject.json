@@ -1,0 +1,20 @@
+{
+    "login_details": [
+        {
+            "username": "admin",
+            "password": "password"
+        },
+        {
+            "username": "korean",
+            "password": "dramamo"
+        },
+        {
+            "username": "alley",
+            "password": "valley"
+        },
+        {
+            "username": "oa",
+            "password": "account"
+        }
+    ]
+}
